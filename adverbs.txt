@@ -1,0 +1,477 @@
+Aback 
+Abeam 
+Ab initio 
+Aboard 
+Above-board  adj. &
+Abreast 
+Abroad 
+Absolutely 
+Abuzz 
+According 
+Accordingly 
+According 
+Accordingly 
+Actually 
+À deux 
+Ad hoc 
+Ad infinitum 
+Admittedly 
+Ad nauseam 
+Adrift 
+Advisedly 
+Afar 
+Afield 
+Aflame 
+Afloat 
+Afoot 
+Afore  prep. &
+Afore  prep. &
+Afresh 
+Aft 
+Afterward 
+Afterwards 
+Again 
+Ago 
+Ahead 
+Ajar 
+Akimbo 
+À la carte 
+À la mode 
+Alfresco 
+Allegedly 
+Almost 
+Aloud 
+Already 
+Alright 
+Also 
+Altogether 
+Always 
+Amidships 
+Amok 
+Anew 
+Anno domini 
+Anon 
+Anticlockwise  adj. &
+Anyhow 
+Anyway 
+Apace 
+Apart 
+Anyhow 
+Anyway 
+Apace 
+Apart 
+Apiece 
+Aright 
+Ashore 
+Askance 
+Assuredly 
+Astern 
+Astraddle 
+Astray 
+Asunder 
+Awfully 
+Awhile 
+Backstage 
+Backwards 
+Badly 
+Bally  adj. &
+Bareback  adj. &
+Barefoot  adj. &
+Bareheaded  adj. &
+Barely 
+Bleeding  adj. &
+Blinking  adj. &
+Buckshee  adj. &
+Certainly 
+Chiefly 
+Clockwise  adj. &
+Commonly 
+Confessedly 
+Consequently 
+Contrariwise 
+Counter-clockwise 
+Country-wide  adj. &
+Crabwise 
+Cross-country  —adj. &
+Crossways 
+Crosswise  adj. &
+Currently 
+Da capo 
+Dal segno 
+Darned  adj. &
+Deadpan  adj. &
+Decidedly 
+De novo 
+Designedly 
+Doggo 
+Double-quick  adj. &
+Doubtless 
+Down-market  adj. &
+Downstage  adj. &
+Downstream 
+Down under 
+Downwind  adj. &
+Drily 
+Dry-shod  adj. &
+Duly 
+Early  —adj. &
+Early on 
+Easily 
+Easterly  —adj. &
+Eastward  —adj. &
+Edgeways 
+Eightfold  adj. &
+Elevenfold  adj. &
+Elevenfold  adj. &
+Else 
+Elsewhere 
+En bloc 
+Endways 
+En famille 
+En masse 
+En passant 
+En route 
+Equally 
+Entirely 
+Ergo 
+Especially 
+Extempore  adj. &
+Eyeball to eyeball 
+Ever 
+Evermore 
+Everywhere 
+Evidently 
+Exactly 
+Exceedingly 
+Ex officio 
+Face to face 
+Fair and square 
+Fairly 
+Faithfully 
+Far and away 
+Far and wide 
+Firsthand  adj. &
+Firstly 
+First thing 
+Fivefold  adj. &
+Fixedly 
+Flipping  adj. &
+Forever 
+Formerly 
+Forsooth 
+Forth 
+Forthwith 
+Fourfold  adj. &
+Fro 
+Fully 
+Furthermore 
+Gaily 
+Galore 
+Generally 
+Gratis 
+Greatly 
+Hammer and tongs 
+Hand in hand 
+Hand-over-fist 
+Hardly 
+Heartily 
+Hell for leather 
+Hence 
+Henceforth 
+Hereabouts 
+Here and now 
+Here and there 
+Hereby 
+Herein 
+Hereinafter 
+Hereof 
+Hereto 
+Heretofore 
+Hereupon 
+Herewith 
+Higgledy-piggledy 
+High and low 
+Highly 
+Hither 
+Hither and thither 
+Hitherto 
+Head first 
+Headlong 
+Head-on  adj. &
+Heartily 
+Hell for leather 
+Hence 
+Henceforth 
+Hereabouts 
+Here and now 
+Here and there 
+Hereby 
+Herein 
+Hereinafter 
+Hereof 
+Hereto 
+Heretofore 
+Hereupon 
+Herewith 
+Head first 
+Headlong 
+Head-on  adj. &
+Heartily 
+Hell for leather 
+Hence 
+Henceforth 
+Hereabouts 
+Here and now 
+Here and there 
+Hereby 
+Herein 
+Hereinafter 
+Hereof 
+Hereto 
+Heretofore 
+Hereupon 
+Herewith 
+Higgledy-piggledy 
+High and low 
+Highly 
+Hither 
+Hither and thither 
+Hitherto 
+Honestly 
+Hopefully 
+Howbeit 
+However 
+Howsoever 
+Hugely 
+Hugger-mugger  —adj. &
+Humanly 
+Ideally 
+Immensely 
+Impromptu  —adj. &
+In absentia 
+Inasmuch 
+Incidentally 
+Increasingly 
+Indefinitely 
+Individually 
+Indoors 
+In flagrante delicto 
+Infra 
+In-house  adj. &
+In loco parentis 
+Inshore 
+In situ 
+Insofar 
+Insomuch 
+Instantly 
+Instead 
+Inter alia 
+In toto 
+In vitro 
+Inwardly 
+Ipso facto 
+Knowingly 
+Largely 
+Lastly 
+Lately 
+Latish  adj. &
+Latterly 
+Leeward  —adj. &
+Lengthways 
+Likewise 
+Little by little 
+Longways 
+Madly 
+Mainly 
+Man to man 
+Materially 
+Maybe 
+Mercifully 
+Midships 
+Midway 
+Mildly 
+Moderato  adj. &
+Molto 
+Moreover 
+Mostly 
+Mutatis mutandis 
+Namely 
+Nationwide  adj. &
+Naturally 
+Nearly 
+Needs 
+Ne'er 
+Never 
+Nevermore 
+Nevertheless 
+Newly 
+Night-long  adj. &
+Ninefold  adj. &
+Nonetheless 
+Normally 
+North-easterly  adj. &
+Northerly  —adj. &
+Northward  —adj. &
+North-westerly  adj. &
+Nose-to-tail  adj. &
+Not 
+O'clock 
+O'er 
+Off-centre  adj. &
+Off-key  adj. &
+Offscreen  adj. &
+Off-stage  adj. &
+Oft 
+Often 
+Oft-times 
+One-to-one  adj. &
+Only too 
+Onscreen  adj. &
+Openly 
+Overarm  adj. &
+Overboard 
+Overland  adj. &
+Overleaf 
+Over-long  adj. &
+Overly 
+Par avion 
+Par excellence 
+Parrot-fashion 
+Particularly 
+Partly 
+Passim 
+Peculiarly 
+Pell-mell 
+Peradventure 
+Per annum 
+Per capita 
+Perchance 
+Perfectly 
+Perforce 
+Perhaps 
+Per se 
+Personally 
+Possibly 
+Post-free  adj. &
+Post-haste 
+Post-paid  adj. &
+Practically 
+Precisely 
+Presently 
+Presumably 
+Pronto 
+Properly 
+Purely 
+Purposely 
+Pursuant 
+Quite 
+Rarely 
+Rather 
+Readily 
+Really 
+Red-handed 
+Respectively 
+Richly 
+Rightly 
+Ritardando 
+Roughly 
+Roundly 
+Scarcely 
+Scilicet 
+Scot-free 
+Secondly 
+Seldom 
+Sevenfold  adj. &
+Shipshape 
+Shortly 
+Sic 
+Sight unseen 
+Simply 
+Sincerely 
+Sine die 
+Single-handed 
+Sixfold  adj. &
+Skew-whiff  adj. &
+Sky-high 
+Slantwise 
+Slap-bang 
+Soever 
+Solely 
+Someday 
+Somehow 
+Someplace 
+Sometimes 
+Somewhat 
+Somewhen 
+Soon 
+Sorely 
+Sotto voce 
+South-easterly  adj. &
+Southerly  —adj. &
+Southward  —adj. &
+South-westerly  adj. &
+Straightaway 
+Supposedly 
+Supra 
+Surely 
+Swimmingly 
+Swimmingly 
+Tenfold  adj. &
+Terribly 
+Thankfully 
+Thence 
+Thenceforth 
+Thereabouts 
+Thereafter 
+Thereby 
+Therefore 
+Therein 
+Thereof 
+Thereto 
+Thereupon 
+Thither 
+Threefold  adj. &
+Thrice 
+Thus 
+Too 
+Topsy-turvy 
+Totally 
+Truly 
+Twelvefold  adj. &
+Twice 
+Twofold  adj. &
+Ultra vires 
+Unawares 
+Underarm  —adj. &
+Underfoot 
+Unfortunately 
+Up-country 
+Upfield 
+Up-market  adj. &
+Upside down 
+Upstage  —adj. &
+Upstream 
+Upwardly 
+Upwind  adj. &
+Verbatim 
+Verily 
+Videlicet 
+Virtually 
+Vivace 
+Waist-deep  adj. &
+Way back 
+Wellnigh 
+Westerly  —adj. &
+Westward  —adj. &
+Whenever  conj. &
+Whensoever  conj. &
+Whilst 
+Wholly 
+Widdershins 
+Widely 
+Willy-nilly 
+Windward  —adj. &
+Wittingly 
+Yeah 
+Yep 
+Yon  adj. &
